@@ -53,18 +53,6 @@ This capstone project aims to predict employee salaries using both Machine Learn
 ![Streamlit UI](results/streamlit_ui.png)
 
 ---
-
-## 💻 How to Run Locally
-
-```bash
-git clone https://github.com/raam-jee/employee-salary-prediction.git
-cd employee-salary-prediction
-pip install -r requirements.txt
-streamlit run streamlit_app/app.py
-
-
-
----
 ## 👨‍💻 About Me
 
 Hi, I’m **Raam** — a passionate learner in AI, machine learning, and software development.  
