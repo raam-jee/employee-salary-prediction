@@ -21,3 +21,33 @@ This capstone project aims to predict employee salaries using both Machine Learn
 ---
 
 ## 🗂️ Project Structure
+
+---
+
+## 📊 Results and Screenshots
+
+### 🔹 Salary Distribution  
+![Salary Distribution](results/salary_distribution.png)
+
+### 🔹 Feature Correlation  
+![Correlation Heatmap](results/feature_correlation.png)
+
+### 🔹 ML Model Performance  
+![ML Scores](results/ml_model_scores.png)
+
+### 🔹 DL Training Loss  
+![DL Loss Curve](results/dl_loss_curve.png)
+
+### 🔹 Streamlit Web App Interface  
+![Streamlit UI](results/streamlit_ui.png)
+
+---
+
+## 💻 How to Run Locally
+
+```bash
+git clone https://github.com/raam-jee/employee-salary-prediction.git
+cd employee-salary-prediction
+pip install -r requirements.txt
+streamlit run streamlit_app/app.py
+
