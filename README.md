@@ -37,19 +37,22 @@ This capstone project aims to predict employee salaries using both Machine Learn
 
 ## 📊 Results and Screenshots
 
+
+---
+
+## 📊 Results and Screenshots
+
 ### 🔹 Salary Distribution  
-![Salary Distribution](<img width="1024" height="1024" alt="salary-distribution" src="https://github.com/user-attachments/assets/486c4598-906f-4b68-b4e3-c1335cb3f357" />)
+<img width="1024" height="1024" alt="salary-distribution" src="https://github.com/user-attachments/assets/5933b905-5e6f-4823-9459-0513cae94620" />
 
 ### 🔹 Feature Correlation  
-![Correlation Heatmap](<img width="1536" height="1024" alt="feature-correlation" src="https://github.com/user-attachments/assets/4cb981f9-c655-4db2-ae66-c065c1b51348" />)
+<img width="1536" height="1024" alt="feature-correlation" src="https://github.com/user-attachments/assets/b18ffe14-840f-4e9c-84a0-213e6a01e108" />
 
 ### 🔹 ML Model Performance & DL Training Loss 
-![ML Scores](<img width="1536" height="1024" alt="ml dl" src="https://github.com/user-attachments/assets/d069e617-989d-4427-bb32-fee3cbaa671e" />)
-
+<img width="1536" height="1024" alt="ml dl" src="https://github.com/user-attachments/assets/220b6a23-2179-4453-a537-527d7845538d" />
 
 ### 🔹 Streamlit Web App Interface  
-![Streamlit UI](<img width="1024" height="1024" alt="streamlit-ui" src="https://github.com/user-attachments/assets/d6766d7b-f142-492e-978c-71a1e558ba3d" />)
-
+<img width="1024" height="1024" alt="streamlit-ui" src="https://github.com/user-attachments/assets/a3430f38-c2d1-4a5d-9451-75ab9c7ea4c1" />
 
 ---
 ## 👨‍💻 About Me
