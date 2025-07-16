@@ -21,8 +21,19 @@ This capstone project aims to predict employee salaries using both Machine Learn
 ---
 
 ## 🗂️ Project Structure
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-RandomForest%2C%20XGBoost-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Keras%2FTensorFlow-orange)
+![Streamlit](https://img.shields.io/badge/Deployed%20With-Streamlit-red)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
+
+## 🧪 Notebooks
+
+- 📘 [EDA & Feature Engineering](notebooks/01_EDA.ipynb)
+- 🤖 [Model Training & Evaluation](notebooks/02_Model_Building.ipynb)
+
 
 ## 📊 Results and Screenshots
 
@@ -51,3 +62,13 @@ cd employee-salary-prediction
 pip install -r requirements.txt
 streamlit run streamlit_app/app.py
 
+
+
+---
+## 👨‍💻 About Me
+
+Hi, I’m **Raam** — a passionate learner in AI, machine learning, and software development.  
+This capstone project blends my interest in real-world problem solving with cutting-edge technology.  
+I’m preparing for top academic results and career excellence in applied AI and engineering.
+
+📧 Reach me at: raam.jee@example.com  
