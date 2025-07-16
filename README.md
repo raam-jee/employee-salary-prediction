@@ -38,25 +38,25 @@ This capstone project aims to predict employee salaries using both Machine Learn
 ## 📊 Results and Screenshots
 
 ### 🔹 Salary Distribution  
-![Salary Distribution](results/salary_distribution.png)
+![Salary Distribution](results/<img width="1024" height="1024" alt="salary-distribution" src="https://github.com/user-attachments/assets/486c4598-906f-4b68-b4e3-c1335cb3f357" />
+)
 
 ### 🔹 Feature Correlation  
-![Correlation Heatmap](results/feature_correlation.png)
+![Correlation Heatmap](<img width="1536" height="1024" alt="feature-correlation" src="https://github.com/user-attachments/assets/4cb981f9-c655-4db2-ae66-c065c1b51348" />
 
-### 🔹 ML Model Performance  
-![ML Scores](results/ml_model_scores.png)
+### 🔹 ML Model Performance & DL Training Loss 
+![ML Scores](<img width="1536" height="1024" alt="ml dl" src="https://github.com/user-attachments/assets/d069e617-989d-4427-bb32-fee3cbaa671e" />
 
-### 🔹 DL Training Loss  
-![DL Loss Curve](results/dl_loss_curve.png)
 
 ### 🔹 Streamlit Web App Interface  
-![Streamlit UI](results/streamlit_ui.png)
+![Streamlit UI](<img width="1024" height="1024" alt="streamlit-ui" src="https://github.com/user-attachments/assets/d6766d7b-f142-492e-978c-71a1e558ba3d" />
+
 
 ---
 ## 👨‍💻 About Me
 
-Hi, I’m **Raam** — a passionate learner in AI, machine learning, and software development.  
+Hi, I’m **Ritik** — a passionate learner in AI, machine learning, and software development.  
 This capstone project blends my interest in real-world problem solving with cutting-edge technology.  
 I’m preparing for top academic results and career excellence in applied AI and engineering.
 
-📧 Reach me at: raam.jee@example.com  
+📧 Reach me at: ritikroushanbih0@gmail.com
